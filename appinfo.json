@@ -1,0 +1,35 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "tanghel@live.com",
+    "longName": "Pomodoro",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/stop.png",
+                "name": "ACTION_STOP",
+                "type": "png"
+            },
+            {
+                "file": "images/pause.png",
+                "name": "ACTION_PAUSE",
+                "type": "png"
+            },
+            {
+                "file": "images/play.png",
+                "name": "ACTION_PLAY",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Pomodoro",
+    "uuid": "6aae0803-30df-4e9f-8f18-516c25ac9a23",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
